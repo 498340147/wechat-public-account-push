@@ -90,8 +90,8 @@ export const USER_CONFIG = {
     },
     {
       name: "老婆1",
-      id: "",
-      useTemplateId: "",
+      id: "oLsOs5zJo3aCfTQXAzFEl2Z4RBUU",
+      useTemplateId: "rZYoqzwkbhGZYW7hmcUCGn9nPEpMUrEPrDkwls6znDE",
       province: "",
       city: "",
       horoscopeDate: '',
