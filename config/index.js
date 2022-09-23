@@ -68,7 +68,7 @@ export const USER_CONFIG = {
       // 所在省份
       province: "陕西",
       // 所在城市
-      city: "晚安",
+      city: "延安",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '12-08',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -90,8 +90,8 @@ export const USER_CONFIG = {
     },
     {
       name: "老婆1",
-      id: "oLsOs5zJo3aCfTQXAzFEl2Z4RBUU",
-      useTemplateId: "rZYoqzwkbhGZYW7hmcUCGn9nPEpMUrEPrDkwls6znDE",
+      id: "",
+      useTemplateId: "",
       province: "",
       city: "",
       horoscopeDate: '',
